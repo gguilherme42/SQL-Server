@@ -1,2 +1,2 @@
 # SQL-Server
-Exercícios do treinamento de SQL.
+Exercícios  de SQL.
